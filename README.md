@@ -3,12 +3,15 @@
  This is to create a model for citibike ridership
 
  Small Guide:
- - Code
+ - Code:
   Eda.ipynb, preprocessing.ipynb, model.ipynb
- - Data
+
+ - Data:
  Exported CSV file
- - Docs
+
+ - Docs:
   data dictionary, notes, supporting material
- - Queries
+
+ - Queries:
  Final SQL 
 
